@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messenger Template", "Messenger Template\Messenger Template.csproj", "{679B979F-53C2-4CE4-9036-64336FA355F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment Stripe", "Payment Stripe\Payment Stripe.csproj", "{1C6F31E0-1C98-42B3-AFF5-5F4009E2DEBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{679B979F-53C2-4CE4-9036-64336FA355F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{679B979F-53C2-4CE4-9036-64336FA355F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{679B979F-53C2-4CE4-9036-64336FA355F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6F31E0-1C98-42B3-AFF5-5F4009E2DEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6F31E0-1C98-42B3-AFF5-5F4009E2DEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6F31E0-1C98-42B3-AFF5-5F4009E2DEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6F31E0-1C98-42B3-AFF5-5F4009E2DEBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

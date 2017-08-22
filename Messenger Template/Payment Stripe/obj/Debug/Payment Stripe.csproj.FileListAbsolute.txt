@@ -1,0 +1,41 @@
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\csc.exe
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\vbc.exe
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Payment Stripe.dll.config
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Payment Stripe.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Payment Stripe.pdb
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Antlr3.Runtime.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Newtonsoft.Json.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.Helpers.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.Mvc.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.Optimization.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.Razor.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.WebPages.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\WebGrease.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.Helpers.xml
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.Mvc.xml
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.Optimization.xml
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.Razor.xml
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.WebPages.xml
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Antlr3.Runtime.pdb
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Newtonsoft.Json.xml
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\obj\Debug\Payment Stripe.csprojResolveAssemblyReference.cache
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\obj\Debug\Payment Stripe.dll
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\obj\Debug\Payment Stripe.pdb
+C:\Users\Vasyl\Source\Repos\Templates\Messenger Template\Payment Stripe\bin\Stripe.net.dll
